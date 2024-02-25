@@ -1,1 +1,3 @@
-Ab
+git restore --staged A/A.txt
+git add -A
+git commit -m "add first file"
