@@ -5,3 +5,4 @@ git commit -m "add first file"
 git restore --staged *
 git restore --staged A/A.txt
 git restore --staged *.txt
+git diff --staged
